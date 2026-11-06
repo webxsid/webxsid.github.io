@@ -7,6 +7,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>crona</title>
         <item>
             <title>1.1.0</title>
+            <pubDate>Fri, 06 Nov 2026 14:34:06 +0000</pubDate>
+            <sparkle:fullReleaseNotesLink>https://crona.work/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="FThqZ/Y+UZpzMjlzL6lj+ZECtPVzQVCCDTKI+no3XvNzT/puvhgywOUMzy3TmL9oii2hGf9SJwhjsHIo/FoKAw==" sparkle:length="2497">https://crona.work/updates/mac/Crona-1.1.0-beta.3-macOS.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/crona-app/crona-macos/releases/download/v1.1.0-beta.3/Crona-1.1.0-beta.3-macOS.zip" length="7855473" type="application/octet-stream" sparkle:edSignature="vmr4C3REKFilsQ9zUZikzfWX80F6i8EmeFPV/cQvJ9cZj7iuh0cyoBMvh1sb9jGf7IPCnmhH8smvcZmxyOwHDw=="/>
+        </item>
+        <item>
+            <title>1.1.0</title>
             <pubDate>Tue, 27 Oct 2026 17:01:03 +0000</pubDate>
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:version>20</sparkle:version>
@@ -207,6 +218,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: hYSeBlcKLBLiRAep4Ivts+FRN+Yl2FGIh9iQDiXsgACz+BXv+sMXH/X9CWb5DiKM5hJrJS3+/Bnotn1hh7vBBg==
-length: 18992
+edSignature: e2MmNgACqe+VepQPtI0hNLQBrSSRY0MLS+EC7j+05Dg4/hVBAurCKSecwTG7eFEbfgHYh2akEk0yg3ahRS5ECA==
+length: 20025
 -->
