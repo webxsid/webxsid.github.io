@@ -1,0 +1,212 @@
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>crona</title>
+        <item>
+            <title>1.1.0</title>
+            <pubDate>Tue, 27 Oct 2026 17:01:03 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="GIGwkPhczhdOw3PFdhcsLrpD88yA/s0RMWum7JCCdQ/QWiKdHMLp8f+aMNTPSKim65M1D0run/vF0em9zILLCQ==" sparkle:length="3450">https://webxsid.github.io/crona-macos/Crona-1.1.0-beta.2-macOS.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/webxsid/crona-macos/releases/download/v1.1.0-beta.2/Crona-1.1.0-beta.2-macOS.zip" length="7813650" type="application/octet-stream" sparkle:edSignature="f2uknq9JbMSNzp9jSm0glT+w2z8n2Opz9PqXsp7ziWDzK90ZTYKoS5myCIEnzzTFPKOWfZQxnROMHRSuvTkSBQ=="/>
+        </item>
+        <item>
+            <title>1.1.0</title>
+            <pubDate>Sat, 10 Oct 2026 06:54:20 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="lBFKVxcrQ2E7NtxUPqNgxTMNNfnKKtQcy0AO0ZynN129Qsy7l+0EeHi/fcuxbdqOWRLRWGM/eyiptGoPx5RgBg==" sparkle:length="2544">https://webxsid.github.io/crona-macos/Crona-1.1.0-beta.1-macOS.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/webxsid/crona-macos/releases/download/v1.1.0-beta.1/Crona-1.1.0-beta.1-macOS.zip" length="7311975" type="application/octet-stream" sparkle:edSignature="afXESE5YsNXs7Y6bO95TX8PbgX94VxDk7vw2f3g8AB9Csoz6sZZ1kOXJcdmIj/Dq27/6AvuiCK80cXD8XNkxDg=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Sun, 13 Sep 2026 03:49:03 +0000</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="waocu5nyV/CTs/qROvLpCJiiAlsSiRMLrX1LQHq1x8wgfirPPf9X5FTtOAmUsF6nOAumW8xNFB1JUpMhxHzgAQ==" sparkle:length="4963">https://webxsid.github.io/crona-macos/Crona-1.0.0-macOS.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/webxsid/crona-macos/releases/download/v1.0.0/Crona-1.0.0-macOS.zip" length="7083449" type="application/octet-stream" sparkle:edSignature="G010Fuivf41UdCUocRIInuLl95pkmsN3usu0esLEiFUxA3+CLVIv0rmRFc34OrA/0Hn6B4tjwMn7HOydkjj6BA=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Fri, 04 Sep 2026 13:05:46 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="dkLBHzZk/sr2iJPgLERBVd0Ou17AQUNztD6MvKwwqOaxLos9VwTc9c/FCBSWl0grhz+93C99uzNdC2XLqzmtCg==" sparkle:length="748">https://webxsid.github.io/crona-macos/Crona-1.0.0-beta.16-macOS.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/webxsid/crona-macos/releases/download/v1.0.0-beta.16/Crona-1.0.0-beta.16-macOS.zip" length="7083489" type="application/octet-stream" sparkle:edSignature="ySXD78FWYCv+HrvGGJntTD7Ur2T4zFwdRin3LNgwyfWZ/MISicj7ZrF8RvnIugCm3WHc2cVImuXbIr1gIn25Bg=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Thu, 20 Aug 2026 15:01:20 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="7A5wgxTojKlpxXd7alhuYYbbB7bzlOmrb4FrCLGGgFYBbuIo/6p9mInQL6O2H6bbC7E9T9krnpnaEHCI1gB7Ag==" sparkle:length="1086">https://webxsid.github.io/crona-macos/Crona-1.0.0-beta.15-macOS.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/webxsid/crona-macos/releases/download/v1.0.0-beta.15/Crona-1.0.0-beta.15-macOS.zip" length="7245331" type="application/octet-stream" sparkle:edSignature="AHqYuiEOmTrLipsUX8nAHvTN56NzuF6mPoOCzXghPKcgyJtvrkzUVnjv6Wa2VcqbtpcA/ikZpbKbProZ1PtdAA=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Tue, 18 Aug 2026 13:50:17 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="w8Ty1/9u4pEIqLXrc5IUBGOlJkskHmgdfZajeoW8opfxIV9FEy5ODl0YLWsderBDRpFEfSi63PYtkW0lLXCtCQ==" sparkle:length="1278">https://webxsid.github.io/crona-macos/Crona-1.0.0-beta.14-macOS.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/webxsid/crona-macos/releases/download/v1.0.0-beta.14/Crona-1.0.0-beta.14-macOS.zip" length="7230100" type="application/octet-stream" sparkle:edSignature="fQ4JC/GVDW0QLsn5+yEdVc6HDdZWLm7WwjuphLHMnyFeeLnjgY/G6Z1As/JGqRmNu8fo0deJJxF4dhP6ORGUAg=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Sun, 16 Aug 2026 15:50:51 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="Moblxb4osQx+STglEu8QNDhrjqGGiC5ceE8pKhIXBzmx4OvKxfCQDShFLYC7ewgUD/VCH8K/1l2M+hVZipEOBw==" sparkle:length="2832">https://webxsid.github.io/crona-macos/Crona-1.0.0-beta.13-macOS.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/webxsid/crona-macos/releases/download/v1.0.0-beta.13/Crona-1.0.0-beta.13-macOS.zip" length="6975834" type="application/octet-stream" sparkle:edSignature="lv23mH9o20mUxBv5eQqEFH2un10h1E9RQLHVpcoG6kJXMwI/8jECX7cLvlNLDEDstsrhI2cmUm+gUD74NfPpDA=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Sat, 15 Aug 2026 09:24:09 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="rzXSW1goOzFu02zzGm/WbqgwDT3RRGud+qSy0YAdwxUjQmYyvOdXN2LcLHqwsePV7Y8w2K0zr+0AYd3p0teVDg==" sparkle:length="1447">https://webxsid.github.io/crona-macos/Crona-1.0.0-beta.12-macOS.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/webxsid/crona-macos/releases/download/v1.0.0-beta.12/Crona-1.0.0-beta.12-macOS.zip" length="6754057" type="application/octet-stream" sparkle:edSignature="aaOusfyXgLH5NKZcBpyJHJAI6Gy7LDiXQZzXQhHB8ms675QC59ct59HmF+PAQna2Lv1KLbVrG42+SOj7LaCWAQ=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Fri, 14 Aug 2026 13:12:06 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="uj13xHHDyInmcusDZ8DPWjSDXzaxEwGvUvL32fN5Rb6FUSEnY4YdnQShMUKaYI6HzLkcJQQpyM4AU1phUFS/Cg==" sparkle:length="1944">https://webxsid.github.io/crona-macos/Crona-1.0.0-beta.11-macOS.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/webxsid/crona-macos/releases/download/v1.0.0-beta.11/Crona-1.0.0-beta.11-macOS.zip" length="6656463" type="application/octet-stream" sparkle:edSignature="8o7zJfFKrf8vX4s/5NOg43aG5PJ2PhgevpmEBvA5x3qulmmY+rxl8YTOXwCxGMMmTWm4dNcBNiniL+5jjxnpAw=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Thu, 13 Aug 2026 11:43:53 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="BumKuMtHMO0HE1DU6DvnhjSh9vLza5xmWTY4856oz9qDimstvv3IDsGzOKQ8vc84oGfO5KO1bx4sknnAfC0/Cw==" sparkle:length="2225">https://webxsid.github.io/crona-macos/Crona-1.0.0-beta.10-macOS.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/webxsid/crona-macos/releases/download/v1.0.0-beta.10/Crona-1.0.0-beta.10-macOS.zip" length="6644107" type="application/octet-stream" sparkle:edSignature="UY1o7gNdVDQJDJxAcX9n34dle7Iffuy2c1LEO/s2WI0F279taS7A0ffBp37LcQhrSE4g0S6VwMdFW0tdBE7MBw=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Sun, 09 Aug 2026 16:43:08 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="3ZshGbg7oiluZYW0Qw/lFzXFsMbHWihsSBpjt7sqoAyTWHEEZxwcmLm0xLaIL9Jg6d8qjj5xH6TGzMI8mtzXAw==" sparkle:length="2798">https://webxsid.github.io/crona-macos/Crona-1.0.0-beta.9-macOS.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/webxsid/crona-macos/releases/download/v1.0.0-beta.9/Crona-1.0.0-beta.9-macOS.zip" length="6362216" type="application/octet-stream" sparkle:edSignature="V2ozJrlqW0SC7qI4U08hq0uEk4y4oetau318uiU3vT8Z10ZyM3hIcmD9sT47r9vhWO7g8YN9Tk3oMsDJunk8Aw=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Wed, 05 Aug 2026 15:49:08 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="NC4ImK5C4GcaCyGVN6nvW/EXizuDlzKLiPWKMlw7xPetJ+IX0HA18CMYORi8z6A5mSWsdCfwTXsdwajFtX6rAg==" sparkle:length="1765">https://webxsid.github.io/crona-macos/Crona-1.0.0-beta.8-macOS.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/webxsid/crona-macos/releases/download/v1.0.0-beta.8/Crona-1.0.0-beta.8-macOS.zip" length="6298530" type="application/octet-stream" sparkle:edSignature="KUa2Y76T81Xm5Pb1GaHTQ/FRB7Vu9rWZAbRbJ9I7mQs/D03pW9csdLMILHFt6SUwtBsbT1ndtbN330I/3d36Aw=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Wed, 29 Jul 2026 14:49:03 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="TaeJwFUTYU9Pbf/XjiCYdzzvJcA2zsWd8lEP59a6UEb0oaWEiVoqaPd8dEFD16eHvNV8GKk2biWQoe1q6xrRAg==" sparkle:length="1795">https://webxsid.github.io/crona-macos/Crona-1.0.0-beta.7-macOS.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/webxsid/crona-macos/releases/download/v1.0.0-beta.7/Crona-1.0.0-beta.7-macOS.zip" length="6171458" type="application/octet-stream" sparkle:edSignature="AUrBTSS5DMr8hdCH6FNYs48nmE7gK0E1Hwivvn25ItbGb14Bq7aiubJUo6QRbExdHsnYNDqa9OdjQ2fV46awAg=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Wed, 29 Jul 2026 11:21:37 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="M2sF8tRMYTmfei2pvzCJdwSE1IeO88QOqtlh3/o2gwJM5sW2boUAQ10vB4OJOVa5OR+b5tTPqArMOZHTapISCA==" sparkle:length="332">https://webxsid.github.io/crona-macos/Crona-1.0.0-beta.6-macOS.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/webxsid/crona-macos/releases/download/v1.0.0-beta.6/Crona-1.0.0-beta.6-macOS.zip" length="6106303" type="application/octet-stream" sparkle:edSignature="rwet2yi1TCX6gBbcAJSxitjYgsQmp8MlHnkn+uyKAGGR77YggHj29/zfhPzRBcW9c79GMacZl14bAmREe8HIAQ=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Tue, 28 Jul 2026 19:17:11 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="F25QpgsIiULaq99lcr5mitFZneY2I4hC8kLdH5Pyqr4TXCzvTWZhVrmLe6abMy8LiUsFKuZR/AZ0FOhzkH2gDA==" sparkle:length="1618">https://webxsid.github.io/crona-macos/Crona-1.0.0-beta.5-macOS.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/webxsid/crona-macos/releases/download/v1.0.0-beta.5/Crona-1.0.0-beta.5-macOS.zip" length="5902492" type="application/octet-stream" sparkle:edSignature="oP31IFrt+k6kgLsdIrzPG+ehXFp4BOVGbIzAx5JhUhN9Er6ycdWp/btsZI0NpwbxNyzmI5/aUvSWQ0i6wkiJAA=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Tue, 28 Jul 2026 18:57:19 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="F25QpgsIiULaq99lcr5mitFZneY2I4hC8kLdH5Pyqr4TXCzvTWZhVrmLe6abMy8LiUsFKuZR/AZ0FOhzkH2gDA==" sparkle:length="1618">https://webxsid.github.io/crona-macos/Crona-1.0.0-beta.5-macOS.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/webxsid/crona-macos/releases/download/v1.0.0-beta.5/Crona-1.0.0-beta.5-macOS.zip" length="5902460" type="application/octet-stream" sparkle:edSignature="Yc/baEVT0evB0fbGpAt/xsgXH4YHNJqFIuq1SB6z00lq/QmZ5EolnUfpQlMB7KYcxslrlmBl3vwGyrVXpDaFBw=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Tue, 28 Jul 2026 17:03:42 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="pgoWoMe33KtysytM/bZSNVkwsudIeTJEHkGCLm3QzJn4SmXlfNfKiGWrx8kVq4oxvI89hN772Nvnhyypi420DQ==" sparkle:length="2446">https://webxsid.github.io/crona-macos/Crona-1.0.0-beta.4-macOS.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/webxsid/crona-macos/releases/download/v1.0.0-beta.4/Crona-1.0.0-beta.4-macOS.zip" length="5901777" type="application/octet-stream" sparkle:edSignature="48GTbM0QbLxIYYD+EmNIPYIUIJvmllbjAIGX3a59/u3ro7H/Xh+aZ7EmrQSzp5UO5PzLyGrr5Yl7tCdMrHGQCQ=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Sun, 26 Jul 2026 19:14:11 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="VsEoc9hMhaBYsgwZABrr5j7KDTYtwtv0QG/g38grkT8fBjLIz9bo4OWdQZhPZBs8T74XnlbPQu0MUeG85rMGAQ==" sparkle:length="332">https://webxsid.github.io/crona-macos/Crona-1.0.0-beta.3-macOS.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/webxsid/crona-macos/releases/download/v1.0.0-beta.3/Crona-1.0.0-beta.3-macOS.zip" length="5685582" type="application/octet-stream" sparkle:edSignature="hFHmae0MJYGzrfaAvJ5lfvyycLjFBGF071C4DrIKiATdT1qVDx5w95hla4GedybGtg8AmD63BzKdK4+kSvBZCw=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Sun, 26 Jul 2026 19:02:35 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="2F5nhlt8Fnr0N1+AJDaZxJ3Vzk4X9+5jb25ta2HdiTXHNRQiUh+O8iPkc+sIGix/JIHYaIkL5+46MWvcgICoDQ==" sparkle:length="332">https://webxsid.github.io/crona-macos/Crona-1.0.0-beta.2-macOS.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/webxsid/crona-macos/releases/download/v1.0.0-beta.2/Crona-1.0.0-beta.2-macOS.zip" length="5685325" type="application/octet-stream" sparkle:edSignature="e3GHf9kioMkYiLLj3z0uvbWYVM7061Rk8y9r0tcbvt+S9sVPbkFBr/5ArgdrLba4gVSZ/jsf4j2jYkwGjJU3CQ=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Sun, 26 Jul 2026 18:53:49 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="VpSVhS/yozPHVRaRaHLgRQxElUl7T/yHD7EK8gDlssgWvuyfvBz0a2pxu/8os3/d4FsmoU9W7qx67YI44QeOAg==" sparkle:length="316">https://webxsid.github.io/crona-macos/Crona-1.0.0-beta.1-macOS.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/webxsid/crona-macos/releases/download/v1.0.0-beta.1/Crona-1.0.0-beta.1-macOS.zip" length="5685346" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
+<!-- sparkle-signatures:
+edSignature: hYSeBlcKLBLiRAep4Ivts+FRN+Yl2FGIh9iQDiXsgACz+BXv+sMXH/X9CWb5DiKM5hJrJS3+/Bnotn1hh7vBBg==
+length: 18992
+-->
